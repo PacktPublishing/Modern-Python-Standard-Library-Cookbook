@@ -4,7 +4,7 @@
 
 This is the code repository for [Modern Python Standard Library Cookbook](https://www.packtpub.com/application-development/modern-python-standard-library-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788830829 ), published by Packt.
 
-**Build optimized applications in Python by smartly implementing the standard library **
+**Build optimized applications in Python by smartly implementing the standard library**
 
 ## What is this book about?
 The Python 3 Standard Library is a vast array of modules that you can use for developing various kinds of applications. It contains an exhaustive list of libraries, and this book will help you choose the best one to address specific programming problems in Python.
