@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/modern-python-standard-library-cookbook/9781788830829)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1788830822).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Modern Python Standard Library Cookbook
 
 <a href="https://www.packtpub.com/application-development/modern-python-standard-library-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788830829 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09814_MockupCoverNew.png" alt="Modern Python Standard Library Cookbook" height="256px" align="right"></a>
